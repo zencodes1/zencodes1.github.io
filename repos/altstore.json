@@ -7,24 +7,6 @@
   "website": "https://zencodes1.github.io",
   "tintColor": "#F54F32",
   ],
-  "apps": [{
-        "name": "My Example App",
-        "bundleIdentifier": "com.example.myapp",
-        "developerName": "Example Developer",
-        "subtitle": "An awesome app.",
-        "localizedDescription": "This is an awesome app only available on AltStore.",
-        "iconURL": "https://example.com/myapp_icon.png",
-        "tintColor": "#F54F32",
-        "category": "utilities",
-        "screenshots": [
-            "https://example.com/myapp_screenshot1.png",
-            "https://example.com/myapp_screenshot2.png",
-            "https://example.com/myapp_screenshot3.png"
-        ],
-        "versions": [],
-        "appPermissions": {},
-        "patreon": {},
-    },
-  ],
+  "apps": [],
   "news": [],
 }
